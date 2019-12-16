@@ -8,6 +8,8 @@ def question1(answer):
         x = 3
     if answer == "Red":
         x = 4
+    if answer == "Green":
+        x = 5
     return x
 def question2(answer):
     x = 0
